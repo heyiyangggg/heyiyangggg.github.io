@@ -1,19 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on He Yiyang | Global Health, Technology &amp; Cities</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on He Yiyang | Global Health, Technology &amp; Cities</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>//localhost:1313/posts/hello-world/</link>
-      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/hello-world/</guid>
-      <description>第一篇测试文章 - 测试 Hugo 网站内容发布</description>
-    </item>
-  </channel>
+    <channel>
+        <title>Posts on He Yiyang | Idk lemme figure out bruh</title>
+        <link>//localhost:1313/posts/</link>
+        <description>Recent content in Posts on He Yiyang | Idk lemme figure out bruh</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
+        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>//localhost:1313/posts/hello-world/</link>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+            
+            <guid>//localhost:1313/posts/hello-world/</guid>
+            <description>第一篇测试文章 - 测试 Hugo 网站内容发布</description>
+            <content type="html"><![CDATA[<h2 id="欢迎来到我的网站-">欢迎来到我的网站 👋</h2>
+<p>这是我的第一篇 Hugo 文章，用来测试网站是否正常运行。</p>
+<p>你可以在这里写任何内容，比如：</p>
+<ul>
+<li>我的研究方向</li>
+<li>我的项目</li>
+<li>这个网站的目的</li>
+<li>未来会写什么</li>
+</ul>
+<h3 id="小标题示例">小标题示例</h3>
+<p>这里是正文的一个小标题段落。</p>
+<p>可以加粗、添加链接、引用内容等等：</p>
+<p><strong>示例加粗句子</strong></p>
+<p>引用内容：</p>
+<blockquote>
+<p>社会科学训练带来了理解世界的不同方式。</p>
+</blockquote>
+<h3 id="下一步计划">下一步计划</h3>
+<ul>
+<li>添加更多页面</li>
+<li>上传图片</li>
+<li>配置导航栏</li>
+<li>发布到 GitHub Pages</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>
